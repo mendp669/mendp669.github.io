@@ -1,0 +1,57 @@
+/* Basic styles */
+body{
+background-color: #ffffff;
+}
+h1 {
+color:#000000; 
+}
+
+h2, h3, h4, h5, h6{
+color: #6D7993; /* Accent */
+}
+
+a{
+color:inherit;
+}
+
+a:hover{
+color:#6D7993;
+}
+
+
+/* Homepage styles*/
+.cover{
+height:900px;
+
+}
+.jumbotron {
+color:#ff0000;
+}
+.cover {
+background-image:url(https://ak5.picdn.net/shutterstock/videos/9553385/thumb/1.jpg);
+background-size:cover;
+}
+.front-logo h1 {
+color:white;
+margin:50px 50px 50px 50px;
+}
+.cover{
+height:900px;
+
+}
+.jumbotron {
+background-image:url(https://img.fifa.com/image/upload/t_l4/scrllporgjpmr3uusig7.jpg);
+background-size:cover;
+}
+.front-logo h1 {
+color:White;
+margin:50px 50px 50px 50px;
+}
+.container {
+background-image:url(https://www.liveabout.com/thmb/P4u0ES4edQIqsesETgQqdPKZTgM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/ronaldovsmessiwhoisbetter-5bac4270c9e77c002c7acfe2.jpg);
+background-size:cover;
+}
+.front-logo h1 {
+color:White;
+margin:50px 50px 50px 50px;
+}
